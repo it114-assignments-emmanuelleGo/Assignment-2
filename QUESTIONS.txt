@@ -1,0 +1,26 @@
+1) To provide a skeleton of code for other programmers and to provide better organization of code.
+
+2) Abstract classes are for classes with actual implementation but also provides skeleton code for subclasses under it.
+
+3) Classes are a way to organize methods within a program into new Class objects.
+
+4) Interfaces can provide skeleton methods for a class that can implement it.
+
+5) By implementing multiple interfaces.
+
+6) Method overloading is when you have multiple methods of the same name in the class but take different parameters.
+
+7) Method overwriting is when a child class overwrites/overrides a method present in the parent class.
+
+8) Polymorphism is important for interfaces due to multiple classes being able to inherit the same interface.
+
+9) No, you can't make an instance of an Abstract class. Rather, you make an instance of a similar subclass of your Abstract class.
+
+10) The method name, the number of parameters, and the names of the parameters.
+
+11) There are four access levels: public, private, protected, and default. This tells how accessible something in the code is.
+
+12) Access levels help determine what classes can use/inherit particular methods from a class, particularly anything within the protected access level. 
+   Anything that is protected can only have its methods instantiated by their subclasses.
+
+13) The child class must keep the method the same access level.
